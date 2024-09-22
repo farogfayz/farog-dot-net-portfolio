@@ -21,4 +21,4 @@ jobs:
         aws-region: us-east-2  # Change to your region
 
     - name: Sync with S3
-      run: aws s3 sync . s3://${{ secrets.S3_BUCKET_NAME }} --exclude ".git/*"
+      run: aws s3 sync . s3://${{ secrets.AWS_S3_BUCKET }} --exclude ".git/*"
