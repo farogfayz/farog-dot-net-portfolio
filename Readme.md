@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> https://farog.net/
 
 :star: Star me on GitHub — it helps!
 
@@ -20,9 +20,6 @@
 #### Projects Page
 <img src="website_images/ProjectPage.png" width="900">
   
-
-
-:star: Star me on GitHub — it helps!
 
 ## Features 📋
 ⚡️ Fully Responsive\
@@ -51,7 +48,7 @@
 
 
 ## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+* <b>GitHub Action and AWS-S3</b> - To host my static website (HTML, CSS, JS).
 
 ## Contributing 💡
 #### Step 1

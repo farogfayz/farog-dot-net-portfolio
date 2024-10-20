@@ -1,3 +1,5 @@
+##main.yml file to sync between github action and AWS-S3
+
 name: Sync to S3
 
 on:
