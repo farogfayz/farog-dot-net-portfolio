@@ -1,5 +1,5 @@
-# Personal Portfolio 🔥
-> https://farog.net/
+# Personal Portfolio.
+--> https://farog.net/
 
 
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://farog.net/)
